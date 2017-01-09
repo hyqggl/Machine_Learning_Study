@@ -1,6 +1,6 @@
 
 #URL:
-https://www.coursera.org/learn/machine-learning/home/welcome
+https://www.coursera.org/learn/machine-learning/
 
 This is the entrance of the class. The lecturer is Andrew Ng from Stanford.
 
