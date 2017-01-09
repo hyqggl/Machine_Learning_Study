@@ -30,4 +30,4 @@ EX7: Unsupervised Learning, Dimensionality Reduction
 EX8: Anomaly Detection, Recommender Systems
 
 # well (:
-![image](https://github.com/hyqggl/Machine_Learning_Study/raw/master/finally.jpg)
+enjoy
